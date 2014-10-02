@@ -1,0 +1,1 @@
+Google's wrapper application for querying Wikipedia
